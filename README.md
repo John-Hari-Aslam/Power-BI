@@ -1,1 +1,2 @@
 # Power-BI
+With the help Power BI, I was have created a dashboard for human resource analytics that took into account of the age and attrition rate of each , then I  combined three datasets into one with the help of Excel, processed it in Power Bi with various charts, and further filtered some of the elements to identify the roles of specific columns before presenting it in an understandable and positive way.
